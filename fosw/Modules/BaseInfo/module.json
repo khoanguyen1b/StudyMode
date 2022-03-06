@@ -1,0 +1,13 @@
+{
+    "name": "BaseInfo",
+    "alias": "baseinfo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BaseInfo\\Providers\\BaseInfoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

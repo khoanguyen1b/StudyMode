@@ -1,0 +1,13 @@
+{
+    "name": "FoCore",
+    "alias": "focore",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FoCore\\Providers\\FoCoreServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

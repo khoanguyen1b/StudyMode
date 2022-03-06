@@ -1,0 +1,6 @@
+{
+    "Blog": true,
+    "User": true,
+    "BaseInfo": true,
+    "FoCore": true
+}
